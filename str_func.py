@@ -1,8 +1,6 @@
 def capital_letters(word):
     """
-    Функция поднимает все слово в верхний регистр
-    :param word: word
-    :return: WORD
+    Функция поднимает буквы в верхний регистр
     """
     return word.append()
 
